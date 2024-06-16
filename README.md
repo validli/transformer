@@ -17,6 +17,6 @@ Hi, and welcome to this modern NLP course! Here is a quick summary of the differ
 5. Transformer - Application (Eng - Fr translator):
         Google Colab file: https://colab.research.google.com/drive/1wJD_GAfLw62A0qE7Pkd59mT8C_4KDOrX?usp=sharing
         Data link: http://www.statmt.org/europarl/ for all pairs
-                          http://www.statmt.org/europarl/v7/fr-en.tgz for the En-Fr in the course
-                          https://drive.google.com/file/d/1o8yZ6qni_uueJRUkKaAQGALYiiHG2zBl/view?usp=sharing for nonbreaking_prefix.en
-                          https://drive.google.com/file/d/1MPIKHfN7aqepiZs2GMwa6jTFlWWEqk6v/view?usp=sharing for nonbreaking_prefix_fr
+                   http://www.statmt.org/europarl/v7/fr-en.tgz for the En-Fr in the course
+                   https://drive.google.com/file/d/1o8yZ6qni_uueJRUkKaAQGALYiiHG2zBl/view?usp=sharing for nonbreaking_prefix.en
+                   https://drive.google.com/file/d/1MPIKHfN7aqepiZs2GMwa6jTFlWWEqk6v/view?usp=sharing for nonbreaking_prefix_fr
